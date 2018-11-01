@@ -11,6 +11,7 @@ import java.io.InputStream;
  * @Date: Created in 14:39 2017/12/27
  */
 public class InputTest {
+
     public static void main(String[] args) {
         int c;
         try {
